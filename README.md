@@ -1,4 +1,4 @@
-This is the demo repo to reproduce the bun issue https://github.com/oven-sh/bun/issues/6929
+This is the demo repo for bun issue https://github.com/oven-sh/bun/issues/6929
 
 To reproduce:
 
@@ -13,4 +13,4 @@ To reproduce:
 1. The bug should now have reproduced - can no longer see what you type.
 1. blindly type `reset` or `stty echo` to recover
 
-You could also test locally, just clone the repo and skip to step 6, but it may not reproduce.
+> You could also test locally, just clone the repo and skip to step 6, but it may not reproduce.
