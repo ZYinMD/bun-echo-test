@@ -1,0 +1,4 @@
+{
+  "name": "bun-echo-test",
+  "image": "docker.io/ubuntu:latest"
+}
