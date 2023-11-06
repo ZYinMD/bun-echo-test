@@ -8,7 +8,7 @@ To reproduce:
 1. Wait till container spins up.
 1. Open vscode integrated terminal, now you're inside the container.
 1. `bun install && bun dev` to start the vite dev server.
-1. A pop up will say "your app is running in port xxxx". Click "Open in Browser" to see it. (optional)
+1. (optional) if you see a pop up "your app is now running in port xxxx", click "Open in Browser" to see it. 
 1. Press `q` or `ctrl-c` to stop vite.
 1. The bug should now have reproduced - can no longer see what you type.
 1. blindly type `reset` or `stty echo` to recover
